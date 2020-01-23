@@ -1,0 +1,29 @@
+- dgv1
+
+records 10
+
+- field id
+field lower    4 5
+field alpha    4 5 abcdexyz
+field integer  1 99
+field number   1 99 1
+field word     
+field first
+field last
+field name
+field sep
+field date     19630125 20190815
+field choose   a b c
+field yn
+field yesno
+field tf
+field truefalse
+- field space
+- field tab
+- field newline
+field value    cne
+field chr      65
+field day      99
+field weekday  AAA
+field month    99
+field year     2000 2010 9999

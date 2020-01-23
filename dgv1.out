@@ -1,0 +1,12 @@
+
+D:\Users\christopher.newell\Desktop\datagen>gawk -f dgv1.awk dgv1.txt 
+1	nkgaj	eddb	30	14.1	i	cunégonde	el-achraoui	indira jones	 	1988 02 26	a	y	no	f	false	cne	A	03	tue	03	2000
+2	zesi	aedz	82	67.8	i	jenny	couty	cunégonde nguyen	 	1980 03 07	b	y	yes	t	false	cne	A	26	mon	04	2004
+3	dclfb	dzcxe	90	2.7	i	giuseppe	merkel	gretchen czszepinski	 	1990 10 25	b	y	no	f	true	cne	A	22	fri	12	2007
+4	rswo	zyday	31	33.9	golden	gretchen	couty	cunégonde li	 	2016 09 03	b	y	no	f	false	cne	A	08	sat	02	2009
+5	srbwo	accby	95	84.9	elaine	diederik	gyuradinovics	albert smith	 	2013 02 21	b	y	no	f	false	cne	A	29	sat	07	2009
+6	nfwqu	xdxce	35	6.5	i	cunégonde	schmidt	vladimir gyuradinovics	 	2011 08 26	c	y	no	t	false	cne	A	01	tue	03	2003
+7	chill	bcddd	4	8.5	buy	vladimir	singh	angela padovani	 	2005 01 02	a	y	no	f	false	cne	A	29	sat	02	2006
+8	lzzl	bdydd	27	17.0	ingrid	aoibhe	singh	albert dupont	 	1988 12 14	b	y	yes	t	false	cne	A	24	thu	09	2005
+9	nddu	bcyd	6	37.4	europe	vladimir	smith	azai singh	 	1976 04 15	b	y	no	f	true	cne	A	12	tue	12	2005
+10	cxkjj	aaec	92	68.7	i	sun	li	diederik gyuradinovics	 	2014 10 02	c	n	no	t	true	cne	A	30	sat	12	2001

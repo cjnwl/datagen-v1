@@ -1,0 +1,38 @@
+records  12
+fieldsep tab
+comments "-"
+- debug
+
+- output screen
+- output file stn_pie_pieces
+
+- format csv
+- format sql stn_pie_pieces
+- commit 5
+
+- standard lists
+list      days jours.list
+- an abysmal start to the day
+
+- specific lists
+list      junk   poubelle.list
+list      french francais.texte
+list      words  dictionary70k.txt
+
+header    id aaa bbb ccc
+
+- field     id
+field     id     1000000 10
+- field     word
+- field(p)  name
+- listitem  junk
+- field weekday AAA
+- field month   AAA
+- field month   99
+field     alpha 1 3 1234567890
+field2    sep
+field2(p) street
+field(p)  city
+field(p)  country
+- field  listitem french
+- ???????????????????
